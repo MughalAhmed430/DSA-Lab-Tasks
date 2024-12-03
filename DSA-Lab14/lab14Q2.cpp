@@ -127,7 +127,7 @@ int main() {
 
     cout << "Number of elements in the queue: " << queue.count() << endl;
 
-    queue.dequeue();
+    queue.dequeue();   
 
     cout << "Queue after dequeue: ";
     queue.display();

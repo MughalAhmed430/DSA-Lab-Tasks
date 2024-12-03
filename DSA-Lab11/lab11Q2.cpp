@@ -45,6 +45,7 @@ int main()
     printArray(arr1, n1);
 
     cout << "Sorted reverse sorted array: ";
+    bubbleSort(arr2,n2);
     printArray(arr2, n2);
 
     cout << "Sorted random unsorted array: ";
